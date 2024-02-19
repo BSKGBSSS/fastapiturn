@@ -1,5 +1,5 @@
 fastapi
-sklearn
+scikit-learn
 uvicorn
 pickle4
 pydantic
