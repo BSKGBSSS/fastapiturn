@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pickle4
+pydantic
+learn
+requests
+pypi-json
+pyngrok
+nest-asyncio
