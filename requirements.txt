@@ -1,4 +1,5 @@
 fastapi
+sklearn
 uvicorn
 pickle4
 pydantic
